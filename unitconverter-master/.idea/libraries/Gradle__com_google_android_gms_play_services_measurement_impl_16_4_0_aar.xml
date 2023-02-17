@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.android.gms:play-services-measurement-impl:16.4.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bc73bf284be5f6c3cc8b918b1024920e/play-services-measurement-impl-16.4.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bc73bf284be5f6c3cc8b918b1024920e/play-services-measurement-impl-16.4.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../YUGMA-B2C-App/android/gradle/caches/transforms-2/files-2.1/bc73bf284be5f6c3cc8b918b1024920e/play-services-measurement-impl-16.4.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../YUGMA-B2C-App/android/gradle/caches/transforms-2/files-2.1/bc73bf284be5f6c3cc8b918b1024920e/play-services-measurement-impl-16.4.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-measurement-impl/16.4.0/98fea79e4a77817f0ce14dd933ef096cd7d79b20/play-services-measurement-impl-16.4.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../YUGMA-B2C-App/android/gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-measurement-impl/16.4.0/98fea79e4a77817f0ce14dd933ef096cd7d79b20/play-services-measurement-impl-16.4.0-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES />
   </library>

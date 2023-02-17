@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    tools:context=".aboutActivity">
+    tools:context="com.c4code.princevishwakarma.unitconverter.aboutActivity">
 
     <include
         layout="@layout/app_bar_main"
@@ -69,13 +69,6 @@ android:gravity="center"
         android:gravity="center_horizontal" />
 
 </RelativeLayout>
-
-
-
-
-
-
-
     <android.support.design.widget.NavigationView
         android:id="@+id/nav_view"
         android:layout_width="wrap_content"

@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    tools:context=".dsActivity">
+    tools:context="com.c4code.princevishwakarma.unitconverter.c4code.princevishwakarma.unitconverter.aboutActivity$dsActivity">
 
     <include
         layout="@layout/app_bar_main"
@@ -46,16 +46,19 @@
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="271dp"
-            android:layout_alignParentBottom="true"
+            android:layout_height="105dp"
+            android:layout_below="@+id/input"
             android:layout_alignParentStart="true"
-            android:layout_marginBottom="85dp"
-            android:layout_marginLeft="10dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="0dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="104dp"
+            android:layout_marginBottom="338dp"
             android:baselineAligned="false"
             android:orientation="horizontal"
             android:padding="5dp"
-            android:layout_alignParentLeft="true"
-            android:layout_marginStart="10dp">
+            android:visibility="visible">
 
             <LinearLayout
                 android:layout_width="310dp"
@@ -69,46 +72,51 @@
                     android:id="@+id/b"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
+
                     android:textStyle="bold"
                     tools:text="0"
-                    android:textAlignment="center"/>
+                    android:textAlignment="center"
+                    android:gravity="center_horizontal" />
 
                 <TextView
                     android:id="@+id/kb"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
+
                     android:textStyle="bold"
                     tools:text="0"
-                    android:textAlignment="center"/>
+                    android:textAlignment="center"
+                    android:gravity="center_horizontal" />
 
                 <TextView
                     android:id="@+id/mb"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
+
                     android:textStyle="bold"
                     tools:text="0"
-                    android:textAlignment="center"/>
+                    android:textAlignment="center"
+                    android:gravity="center_horizontal" />
 
                 <TextView
                     android:id="@+id/gb"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
+
                     android:textStyle="bold"
                     tools:text="0"
-                    android:textAlignment="center"/>
+                    android:textAlignment="center"
+                    android:gravity="center_horizontal" />
 
                 <TextView
                     android:id="@+id/tb"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
+
                     android:textStyle="bold"
                     tools:text="0"
-                    android:textAlignment="center"/>
+                    android:textAlignment="center"
+                    android:gravity="center_horizontal" />
 
             </LinearLayout>
 
@@ -124,7 +132,7 @@
                     android:id="@+id/textView9"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
+
                     android:text="@string/byt"
                     android:textStyle="bold" />
 
@@ -132,7 +140,7 @@
                     android:id="@+id/textView8"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
+
                     android:text="@string/Kilobyte"
                     android:textStyle="bold" />
 
@@ -140,7 +148,7 @@
                     android:id="@+id/textView7"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
+
                     android:text="@string/mb"
                     android:textStyle="bold" />
 
@@ -148,7 +156,7 @@
                     android:id="@+id/textView6"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
+
                     android:text="@string/gb"
                     android:textStyle="bold" />
 
@@ -156,7 +164,7 @@
                     android:id="@+id/textView3"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
+
                     android:text="@string/tb"
                     android:textStyle="bold" />
 
@@ -202,9 +210,13 @@
             android:id="@+id/bt"
             android:layout_width="249dp"
             android:layout_height="wrap_content"
-            android:layout_alignParentBottom="true"
             android:layout_centerHorizontal="true"
-            android:layout_marginBottom="30dp"
+            android:layout_marginStart="79dp"
+            android:layout_marginLeft="79dp"
+            android:layout_marginTop="282dp"
+            android:layout_marginEnd="82dp"
+            android:layout_marginRight="82dp"
+            android:layout_marginBottom="274dp"
             android:background="@drawable/cornerround"
             android:text="@string/convert"
             android:textColor="@android:color/background_light"

@@ -73,13 +73,12 @@
     <string name="result_of">Result of</string>
     <string name="unit_converter">UNIT CONVERTER</string>
     <string name="follow_us_on_facebook">Follow us on Facebook</string>
-    <string name="www_newsmarttrick_com">www.pythonsourcecode.com</string>
+    <string name="www_newsmarttrick_com"></string>
     <string name="contact_us_on_website">Contact us on Website</string>
     <string name="todo1">TODO1</string>
-    <string name="thanks_you_from_all_member_of_nst_group">Thanks You From all member of PCS Group</string>
-    <string name="teamdes">Firstly, We tells about the our team. our team contain five members namely Prince Vishwakarma ,Vivek Sahani,Rahul Singh, Yash Kumar Singh,Vimlesh Sahani.We are College friends in Computer Science Engineering and also part of the new startup and you will get about soon.Our team are very social friendly and you can get in touch with team, just follow PCS Team on www.pythonsourcecode.com .
-    Developed by Prince Vishwakarma and UI Design by Vivek Sahani</string>
-    <string name="developed_by_prince_vishwakarma_and_ui_design_by_vivek_sahani">Developed by Prince Vishwakarma and UI Design by Vivek Sahani</string>
+    <string name="thanks_you_from_all_member_of_nst_group">Thanks You all member of C4Code Group</string>
+    <string name="teamdes">Design and Developed by Prince Vishwakarma</string>
+    <string name="developed_by_prince_vishwakarma_and_ui_design_by_vivek_sahani">Developed by Prince Vishwakarma</string>
 
 
 </resources>
